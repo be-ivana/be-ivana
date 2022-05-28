@@ -1,5 +1,5 @@
 
-![Marketing Project Manager] (https://github.com/be-ivana/be-ivana/blob/main/banner%20new.png)
+![Marketing Project Manager](https://github.com/be-ivana/be-ivana/blob/main/banner%20new.png)
 
 ### Hi there 👋, 
 I´m Ivana and I am from Czech republic, living half in Czech, half in Spain. I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through. I am a hardworking and ambitious person with a great passion for Management and Marketing. I am eager to learn and overcome challenges. And that´s why I am here.
