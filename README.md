@@ -1,9 +1,11 @@
-### Here is what I am working on 👋
-🔭 I’m currently working on my GitHub profile
+### Hi there 👋, Ivana Beldova
+#### Marketing Project Manager
+![Marketing Project Manager](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-👯 I graduated in Marketing and International Sales in Copenhagen Business Academy.
+I´m Ivana and I am from Czech republic, living half in Czech, half in Spain. I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through. I am a hardworking and ambitious person with a great passion for Management and Marketing. I am eager to learn and overcome challenges. And that´s why I am here.
 
-🌱 I’m currently workin in Wunderman Thomspon as a Microsodt Marketing Project Manager
+Skills: Project management / Marketing / Content creator / 
 
-📫 How to reach me: [Linkedin](http?//www.linkedin.com/in/ivana-beldova-509917119)
+- 🔭 I’m currently working on this page. 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/be-ivana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ivana-beldova-509917119/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bel_dov_iv)  
